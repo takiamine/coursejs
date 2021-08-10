@@ -1,4 +1,4 @@
-> #### The quarterly results look great!
+> # The quarterly results look great!
 >
 > - Revenue was off the chart.
 > - Profits were higher than ever.
